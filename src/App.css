@@ -93,9 +93,14 @@ body {
 
 button {
   color: #fff;
-  background-color: red;
+  background-color: black;
   border-radius: 5px;
   margin-bottom: 40px;
   width: 200px;
   height: 40px;
+}
+
+button:hover{
+  color: black;
+  background-color: #fff;
 }
